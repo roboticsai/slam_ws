@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/linux/slam_ws/install/setup.sh
